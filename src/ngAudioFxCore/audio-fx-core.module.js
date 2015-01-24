@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
     "use strict";
     /* jshint maxlen: false */
 
